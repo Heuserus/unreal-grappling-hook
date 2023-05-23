@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Unreal_engine/Projects/Erasmus/unreal-grappling-hook/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Unreal_engine/Projects/Erasmus/unreal-grappling-hook/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Unreal_engine/Projects/Erasmus/unreal-grappling-hook/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Unreal_engine/Projects/Erasmus/unreal-grappling-hook/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Unreal_engine/Projects/Erasmus/unreal-grappling-hook/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZK/NZJHDPCGK6X2SII888DALH.uasset",
+				"C:/Unreal_engine/Projects/Erasmus/unreal-grappling-hook/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/ZF/P5QW0O7UL4OX2BR7TJBN7N.uasset",
+				"C:/Unreal_engine/Projects/Erasmus/unreal-grappling-hook/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/V9/DJET10ZEISU1SJ3CL5NZI0.uasset",
+				"C:/Unreal_engine/Projects/Erasmus/unreal-grappling-hook/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8N/FLYDCX9PMGMWSJB7KDOOMF.uasset"
 			]
 		}
 	]
